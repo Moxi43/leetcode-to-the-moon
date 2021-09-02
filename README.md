@@ -1,2 +1,2 @@
-# leetcode-to-the-moon
-Leetcode problems with Golang and Python
+# Leetcode problems
+Leetcode problems with Golang and Python that I've solved from [this](https://seanprashad.com/leetcode-patterns/) list.
