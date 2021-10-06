@@ -1,4 +1,4 @@
-// Link to the problem: https://leetcode.com/problems/richest-customer-wealth/
+// Link to the problem: https://leetcode.com/problems/richest-customer-wealth
 
 func maximumWealth(accounts [][]int) int {
     max_val := 0
